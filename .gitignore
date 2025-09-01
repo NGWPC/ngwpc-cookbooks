@@ -204,3 +204,6 @@ crash.log
 data
 *.gpkg
 
+# version
+_version.py
+
