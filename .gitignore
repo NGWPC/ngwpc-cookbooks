@@ -204,8 +204,5 @@ crash.log
 data
 *.gpkg
 
-# version
-_version.py
-
 # external github repos
 extern/
