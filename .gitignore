@@ -206,3 +206,6 @@ data
 
 # version
 _version.py
+
+# external github repos
+extern/
