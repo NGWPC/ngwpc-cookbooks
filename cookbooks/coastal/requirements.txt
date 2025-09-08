@@ -1,1 +1,4 @@
-herbie-data==2025.7.0
+pyprojroot==0.3.0
+mapclassify==2.10.0
+dask==2025.7.0
+
