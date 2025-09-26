@@ -1,0 +1,5 @@
+pyprojroot==0.3.0
+mapclassify==2.10.0
+dask==2025.7.0
+netCDF4==1.7.2
+
